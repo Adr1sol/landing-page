@@ -1,46 +1,46 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Nexus",
+    "paragraph": "A Costa Rican company with over 15 years of experience in national and international markets. We provide platform solutions and integration, automation systems, and application development for information systems."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Nexus brings together a versatile team of highly qualified professionals, including automation, industrial, and software development engineers. This unique combination allows us to seamlessly bridge operational processes on the plant floor with managerial decision-making levels. Thanks to our trajectory and experience working with leading clients in sectors such as pharmaceutical, food and beverage, and manufacturing, we possess extensive expertise and specialization in industrial automation and digital transformation.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Seamless Integration",
+      "Predictive Maintenance",
+      "Built-In Compliance",
+      "Proven Expertise"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Custom Software",
+      "Efficiency Boost",
+      "Uptime Guarantee",
+      "Scalable Solutions"
     ]
   },
   "Gallery": [
     {
-      "title": "Project Title",
+      "title": "wonderware",
       "largeImage": "img/portfolio/01-large.jpg",
       "smallImage": "img/portfolio/01-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Rockwell",
       "largeImage": "img/portfolio/02-large.jpg",
       "smallImage": "img/portfolio/02-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Schneider Electric",
       "largeImage": "img/portfolio/03-large.jpg",
       "smallImage": "img/portfolio/03-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Siemens",
       "largeImage": "img/portfolio/04-large.jpg",
       "smallImage": "img/portfolio/04-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Allen-Bradley",
       "largeImage": "img/portfolio/05-large.jpg",
       "smallImage": "img/portfolio/05-small.jpg"
     },
@@ -68,33 +68,33 @@
   "Services": [
     {
       "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Monitoring Solutions",
+      "text": "Integrated monitoring systems for predictive maintenance, cost reduction, and downtime prevention."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-wordpress",
+      "name": "Data & Analytics",
+      "text": "We turn raw data into actionable insights to optimize processes and equipment effectiveness."
     },
     {
       "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Control Systems",
+      "text": "Advanced control solutions engineered to enhance operational efficiency, maximize safety, and ensure critical reliability across diverse industries."
     },
     {
       "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Quality Assurance",
+      "text": "Quality assurance and regulatory compliance through precise environmental monitoring and data analysis."
     },
     {
       "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Performance Management",
+      "text": "We boost operational agility, reliability, and efficiency through real-time data and process optimization."
     },
     {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-plane",
+      "name": "Performance Management 2",
+      "text": "We boost operational agility, reliability, and efficiency through real-time data and process optimization."
     }
   ],
   "Testimonials": [
@@ -137,24 +137,24 @@
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
+      "name": "Alex  Smith",
       "job": "Senior Designer"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
+      "name": "Mai",
       "job": "Senior Designer"
     },
     {
       "img": "img/team/04.jpg",
-      "name": "Karen Doe",
+      "name": "Ayi",
       "job": "Project Manager"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": "Miravalles school: 400 meters south, 200 meters east and 25 meters south. Cartago, Costa Rica",
+    "phone": "+506 2551 0012",
+    "email": "info@cnexus.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
@@ -162,23 +162,23 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Unified Systems",
+      "text": "Bridging production data with executive strategy for smarter decisions."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Predictive Maintenance",
+      "text": "Our intelligent monitoring solutions anticipate failures, reduce costs, and prevent unplanned downtime."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Regulatory Assurance",
+      "text": "Pre-engineered solutions for strict regulations, minimizing costs and protecting your brand."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Operational Intelligence",
+      "text": "Future-proof systems that grow with your business, avoiding costly overhauls."
     }
   ]
 }

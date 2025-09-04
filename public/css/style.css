@@ -605,10 +605,6 @@ label {
   }
 }
 
-.service-icon {
-  width: 110px;
-  height: 110px;
-  object-fit: contain;
-  margin-bottom: 15px;
-  border-radius: 100%;
+.logo{
+  margin-top: -30px;  
 }

@@ -18,8 +18,13 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
           </button>
           <a className="navbar-brand page-scroll" href="#page-top">
-            Nexus Electrónica
-          </a>{" "}
+          <img 
+            src="img/NXS.jpeg" 
+            alt="Nexus Electrónica" 
+            height="60"
+            class="logo"
+          />
+        </a>{" "}
         </div>
 
         <div

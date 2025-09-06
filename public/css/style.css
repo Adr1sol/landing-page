@@ -36,7 +36,7 @@ h5 {
   line-height: 20px;
 }
 p {
-  font-size: 15px;
+  font-size: 16px;
 }
 p.intro {
   margin: 12px 0 0;
@@ -92,7 +92,7 @@ hr {
   text-transform: uppercase;
   color: #555;
   font-size: 15px;
-  font-weight: 400;
+  font-weight: bold;
   padding: 8px 2px;
   border-radius: 0;
   margin: 9px 20px 0;
@@ -287,6 +287,7 @@ header .intro-text {
   margin-left: 6px;
   list-style: none;
   padding: 0;
+  font-size: 16px;
 }
 #about .about-text li:before {
   content: "\f00c";
@@ -607,4 +608,9 @@ label {
 
 .logo{
   margin-top: -30px;  
+}
+/* Justifica solo el párrafo de About Us */
+#about .about-text p {
+  text-align: justify;
+  text-justify: inter-word;
 }

@@ -167,7 +167,7 @@ hr {
   text-transform: uppercase;
   color: #fff;
   background-color: #5ca9fb;
-  background-image: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
+  background-image: linear-gradient(to right, #00cacc 0%, #0015cca8 100%);
   padding: 14px 34px;
   letter-spacing: 1px;
   margin: 0;
@@ -183,8 +183,9 @@ hr {
 .btn-custom:active,
 .btn-custom.active {
   color: #fff;
-  background-image: none;
-  background-color: #6372ff;
+  background-image: linear-gradient(to right, #0891b2 0%, #06b6d4 100%);
+  transform: translateY(-3px);
+  box-shadow: 0 12px 35px rgba(8, 145, 178, 0.4);
 }
 .btn:active,
 .btn.active {

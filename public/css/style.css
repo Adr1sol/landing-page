@@ -104,7 +104,7 @@ hr {
   bottom: -1px;
   width: 0;
   height: 2px;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+  background: linear-gradient(to right, #3a4aba 0%, #2a3aa0 100%);
   content: "";
   transition: width 0.2s;
 }
@@ -277,7 +277,7 @@ header .intro-text {
 #about h2::after {
   position: absolute;
   content: "";
-  background: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
+  background: linear-gradient(to right, #3a4aba 0%, #2a3aa0 100%);
   height: 4px;
   width: 60px;
   bottom: 0;
@@ -293,7 +293,7 @@ header .intro-text {
 #about .about-text li:before {
   content: "\f00c";
   font-family: "FontAwesome";
-  color: #5ca9fb;
+  color: #3a4aba;
   font-size: 11px;
   font-weight: 300;
   padding-right: 8px;
@@ -501,13 +501,13 @@ header .intro-text {
   text-align: left;
 }
 #contact .btn-custom {
-  margin: 30px 0;
-  background: transparent;
-  border: 2px solid #fff;
+  /* margin: 30px 0; */  /* Opcional: si quieres mantener el margen */
+  /* background: transparent; */   /* ← Elimina o comenta */
+  /* border: 2px solid #fff; */    /* ← Elimina o comenta */
 }
 #contact .btn-custom:hover {
-  color: #1f386e;
-  background: #fff;
+  color: #fff;
+  background-image: linear-gradient(to right, #00cacc 0%, #0015cca8 100%);
 }
 label {
   font-size: 12px;

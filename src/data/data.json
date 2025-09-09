@@ -20,163 +20,158 @@
   },
   "Gallery": [
     {
-      "title": "wonderware",
+      "title": "",
       "largeImage": "img/portfolio/01-large.jpg",
       "smallImage": "img/portfolio/01-small.jpg"
     },
     {
-      "title": "Rockwell",
+      "title": "",
       "largeImage": "img/portfolio/02-large.jpg",
       "smallImage": "img/portfolio/02-small.jpg"
     },
     {
-      "title": "Schneider Electric",
+      "title": "",
       "largeImage": "img/portfolio/03-large.jpg",
       "smallImage": "img/portfolio/03-small.jpg"
     },
     {
-      "title": "Siemens",
+      "title": "",
       "largeImage": "img/portfolio/04-large.jpg",
       "smallImage": "img/portfolio/04-small.jpg"
     },
     {
-      "title": "Allen-Bradley",
+      "title": "",
       "largeImage": "img/portfolio/05-large.jpg",
       "smallImage": "img/portfolio/05-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "",
       "largeImage": "img/portfolio/06-large.jpg",
       "smallImage": "img/portfolio/06-small.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
-    },
-    {
-      "title": "Project Title",
+      "title": "",
       "largeImage": "img/portfolio/08-large.jpg",
       "smallImage": "img/portfolio/08-small.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "title": "",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
     }
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
+      "icon": "fa fa-dashboard",
       "name": "Monitoring Solutions",
       "text": "Integrated monitoring systems for predictive maintenance, cost reduction, and downtime prevention."
     },
     {
-      "icon": "fa fa-wordpress",
+      "icon": "fa fa-database",
       "name": "Data & Analytics",
       "text": "We turn raw data into actionable insights to optimize processes and equipment effectiveness."
     },
     {
-      "icon": "fa fa-cloud-download",
+      "icon": "fa fa-sliders",
       "name": "Control Systems",
       "text": "Advanced control solutions engineered to enhance operational efficiency, maximize safety, and ensure critical reliability across diverse industries."
     },
     {
-      "icon": "fa fa-language",
+      "icon": "fa fa-check-circle",
       "name": "Quality Assurance",
       "text": "Quality assurance and regulatory compliance through precise environmental monitoring and data analysis."
     },
     {
-      "icon": "fa fa-plane",
+      "icon": "fa fa-line-chart",
       "name": "Performance Management",
       "text": "We boost operational agility, reliability, and efficiency through real-time data and process optimization."
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Performance Management 2",
-      "text": "We boost operational agility, reliability, and efficiency through real-time data and process optimization."
+      "icon": "fa fa-bolt",
+      "name": "Energy Optimization",
+      "text": "Reduce energy consumption and costs with real-time monitoring and automated control systems designed for industrial efficiency."
     }
   ],
   "Testimonials": [
-    {
-      "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+
+    { "img": "img/testimonials/check.png",
+      "text": "Custom system providing complete production visibility and end-to-end batch tracking from raw materials to final product.",
+      "name": "Traceability System"
+    },
+
+    { "img": "img/testimonials/check.png",
+      "text": "Automated and centralized control of production formulas, eliminating manual errors and ensuring batch consistency.",
+      "name": "Recipe Management System"
+    },
+
+    { "img": "img/testimonials/check.png",
+      "text": "System identifying, recording, and analyzing downtime causes to transform data into efficiency improvements.",
+      "name": "Downtime Monitoring System"
+    },
+    { 
+      "img": "img/testimonials/check.png",
+      "text": "Cross-references energy data and electricity rates, automating machine scheduling to maximize savings and production.",
+      "name": "Energy Control System"
+    },
+    { 
+      "img": "img/testimonials/check.png",
+      "text": "Automatically measures availability, performance, and quality to deliver actionable productivity insights.",
+      "name": "OEE (Overall Equipment Effectiveness)"
     },
     {
-      "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "img/testimonials/check.png",
+      "text": "Consolidates and visualizes key production KPIs, enabling trend identification and continuous improvement opportunities.",
+      "name": "KPI Dashboards"
     }
   ],
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "name": "Electronic Engineers",
+      "job": ""
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Alex  Smith",
-      "job": "Senior Designer"
+      "name": "Industrial Engineers",
+      "job": ""
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Mai",
-      "job": "Senior Designer"
+      "name": "Software Engineers",
+      "job": ""
     },
     {
       "img": "img/team/04.jpg",
-      "name": "Ayi",
-      "job": "Project Manager"
+      "name": "Web Developers",
+      "job": ""
     }
   ],
   "Contact": {
     "address": "Miravalles school: 400 meters south, 200 meters east and 25 meters south. Cartago, Costa Rica",
-    "phone": "+506 2551 0012",
-    "email": "info@cnexus.com",
-    "facebook": "fb.com",
+    "phone": "+(506) 2551 0012",
+    "email": "info@ccnexus.com",
+    "facebook": "https://www.facebook.com/profile.php?id=100064712205738",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
+      "icon": "fa fa-link",
       "title": "Unified Systems",
       "text": "Bridging production data with executive strategy for smarter decisions."
     },
     {
-      "icon": "fa fa-bullhorn",
+      "icon": "fa fa-desktop",
       "title": "Predictive Maintenance",
       "text": "Our intelligent monitoring solutions anticipate failures, reduce costs, and prevent unplanned downtime."
     },
     {
-      "icon": "fa fa-group",
+      "icon": "fa fa-shield",
       "title": "Regulatory Assurance",
       "text": "Pre-engineered solutions for strict regulations, minimizing costs and protecting your brand."
     },
     {
-      "icon": "fa fa-magic",
+      "icon": "fa fa-cogs",
       "title": "Operational Intelligence",
       "text": "Future-proof systems that grow with your business, avoiding costly overhauls."
     }

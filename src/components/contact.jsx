@@ -24,10 +24,12 @@ export const Contact = (props) => {
     {/* replace below with your own Service ID, Template ID and Public Key from your EmailJS account */ }
     
     emailjs
-      .sendForm("YOUR_SERVICE_ID", "YOUR_TEMPLATE_ID", e.target, "YOUR_PUBLIC_KEY")
+      .sendForm("service_b6gijd5", "template_drn3dgd", e.target, "49VAaH3Om-wUD_6LJ")
       .then(
         (result) => {
           console.log(result.text);
+
+          alert("Message Sent, We will get back to you shortly");
           clearState();
         },
         (error) => {

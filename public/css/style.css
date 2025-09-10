@@ -179,13 +179,15 @@ hr {
 }
 .btn-custom:hover,
 .btn-custom:focus,
-.btn-custom.focus,
-.btn-custom:active,
-.btn-custom.active {
+.btn-custom.focus {
   color: #fff;
   background-image: linear-gradient(to right, #0891b2 0%, #06b6d4 100%);
   transform: translateY(-3px);
   box-shadow: 0 12px 35px rgba(8, 145, 178, 0.4);
+}
+.btn-custom:active { 
+  transform: translateY(5px) scale(0.98); 
+  box-shadow: 0 3px 12px rgba(0, 202, 204, 0.3); 
 }
 .btn:active,
 .btn.active {
@@ -492,15 +494,7 @@ header .intro-text {
   color: #cc0033;
   text-align: left;
 }
-#contact .btn-custom {
-  /* margin: 30px 0; */  /* Opcional: si quieres mantener el margen */
-  /* background: transparent; */   /* ← Elimina o comenta */
-  /* border: 2px solid #fff; */    /* ← Elimina o comenta */
-}
-#contact .btn-custom:hover {
-  color: #fff;
-  background-image: linear-gradient(to right, #00cacc 0%, #0015cca8 100%);
-}
+
 label {
   font-size: 12px;
   font-weight: 400;

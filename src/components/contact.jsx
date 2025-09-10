@@ -24,10 +24,12 @@ export const Contact = (props) => {
     {/* replace below with your own Service ID, Template ID and Public Key from your EmailJS account */ }
     
     emailjs
-      .sendForm("YOUR_SERVICE_ID", "YOUR_TEMPLATE_ID", e.target, "YOUR_PUBLIC_KEY")
+      .sendForm("service_b6gijd5", "template_drn3dgd", e.target, "49VAaH3Om-wUD_6LJ")
       .then(
         (result) => {
           console.log(result.text);
+
+          alert("Message Sent, We will get back to you shortly");
           clearState();
         },
         (error) => {
@@ -134,32 +136,14 @@ export const Contact = (props) => {
                       <i className="fa fa-facebook"></i>
                     </a>
                   </li>
-                  <li>
-                    <a href={props.data ? props.data.twitter : "/"}>
-                      <i className="fa fa-twitter"></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a href={props.data ? props.data.youtube : "/"}>
-                      <i className="fa fa-youtube"></i>
-                    </a>
-                  </li>
+                  
                 </ul>
               </div>
             </div>
           </div>
         </div>
       </div>
-      <div id="footer">
-        <div className="container text-center">
-          <p>
-            &copy; 2023 Issaaf Kattan React Land Page Template. Design by{" "}
-            <a href="http://www.templatewire.com" rel="nofollow">
-              TemplateWire
-            </a>
-          </p>
-        </div>
-      </div>
+      
     </div>
   );
 };
